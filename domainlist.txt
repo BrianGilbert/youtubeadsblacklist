@@ -8897,3 +8897,7 @@ r2---sn-aigl6n7s.googlevideo.com
 r5---sn-8pgbpohxqp5-auoe.googlevideo.com
 r5---sn-8pgbpohxqp5-auoe.googlevideo.com
 r7---sn-8pgbpohxqp5-auoe.googlevideo.com
+r3---sn-25ge7nsd.googlevideo.com
+r3---sn-25ge7nsd.googlevideo.com	
+r4---sn-t0a7sn7d.googlevideo.com
+r4---sn-8pgbpohxqp5-auoe.googlevideo.com
